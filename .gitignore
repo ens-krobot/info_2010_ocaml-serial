@@ -1,0 +1,5 @@
+*.so
+*.cm[xoai]
+*.cmxa
+*.o
+*.a
